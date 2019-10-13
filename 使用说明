@@ -1,0 +1,4 @@
+改码使用selenium自动化爬取哔哩哔哩动漫排行榜（前五十）并保存到本地excel表格以及导入数据库中。
+使用selenium要用到Chrome驱动，文件里chromedriver.exe就是的
+代码在Action.py中，使用前请改下部分代码：1.保存的excel文件路径 2.chromedriver.exe的路径 3.数据库的相关配置
+此代码仅用于学习
